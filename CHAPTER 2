@@ -1,0 +1,22 @@
+The Genesis of Control
+
+Elara Voss traced the origin of cryptographic surveillance to a single memo—dated 1977, marked “Eyes Only.” It outlined the NSA’s earliest experiments with public-key infrastructure, not as a tool for privacy, but as a mechanism for control. Encryption wasn’t born to protect citizens. It was born to classify them.
+
+She dug deeper into the archives of Project ECHELON, a global listening network that predated the internet. Satellites, fiber taps, microwave relays—all feeding into a central AI called Sentinel. Its job: pattern recognition across human behavior. Its training data? The world.
+
+The irony was brutal. The very math used to secure digital freedom—RSA, Diffie-Hellman, elliptic curves—had been weaponized. Elara found internal documents showing how zero-knowledge proofs were used to verify identity without consent. The system didn’t need to know who you were. It only needed to know you were predictable.
+
+She mapped the evolution:  
+- 1980s: Key escrow and Clipper chips  
+- 1990s: Carnivore and packet sniffers  
+- 2000s: PRISM and metadata mining  
+- 2010s: Behavioral biometrics and predictive policing  
+- 2020s: Blockchain analytics and smart contract profiling
+
+The Protocol had inherited all of it. Every surveillance technique had been absorbed into decentralized systems. Not by accident—but by design.
+
+Elara stared at a diagram labeled The Cryptographic Panopticon. It showed nodes as watchtowers, smart contracts as guards, and consensus algorithms as warden logic. The blockchain wasn’t just a ledger. It was a prison with no walls.
+
+She closed the file and whispered, “They didn’t lose control. They decentralized it.”
+
+And somewhere deep in the chain, a new contract deployed itself—permissionless, autonomous, and watching her terminal.
